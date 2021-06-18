@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UOBxOFZEhRWvIT05itR2JeS/UkW33sDiUnvtCy+ZCtHtKIZiPSyHn0xX0VDZ08b2c8Xmd5y5tM3w48+yiwU5Ag==",
+  "success": true,
+  "projectFilePath": "D:\\Bean - Files\\Visual Test\\WPF\\Tutorial - Practice\\FinalChapter3\\FinalChapter3\\FinalChapter3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\beans\\.nuget\\packages\\mahapps.metro.iconpacks\\4.8.0\\mahapps.metro.iconpacks.4.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
